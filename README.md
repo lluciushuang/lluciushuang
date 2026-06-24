@@ -76,7 +76,5 @@ Developed a POS solution for a real business client.
 - Technology
 - Game Development
 
-## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/lluciushuang/lluciushuang/blob/output/github-contribution-grid-snake-dark.svg)
 
